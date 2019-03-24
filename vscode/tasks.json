@@ -10,7 +10,7 @@
             "args": [
                 "-g",
                 "-Wall",
-                "quicksort.cpp"
+                "HelloWorld.cpp"
             ],
             "group": {
                 "kind": "build",
